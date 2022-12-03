@@ -1,7 +1,7 @@
 ## GK Sprachphilosophie PowerPoint Transkripte
 
 Dieses Repository enthält die Transkriptionen der PowerPoint-Präsentationen von Prof. Markus Wild,
-die im Rahmen des Moduls Sprachphilosophie im Herbstsemester 2021 gehalten wurden. 
+die im Rahmen des Moduls Sprachphilosophie im Herbstsemester 2022 gehalten wurden. 
 
 Die Transkription wurde mit [AssemblyAI](https://www.assemblyai.com) durchgeführt. 
 Da der Text von einem Sprachmodell verarbeitet wurde, stimmen die Transkriptionen zum Teil nicht mit dem Gesprochenen überein.
