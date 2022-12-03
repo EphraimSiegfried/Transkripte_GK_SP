@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "transcribe-pptx"
+version = "0.1.0"
+description = ""
+authors = ["Ephraim Siegfried <e.siegfried@stud.unibas.ch>"]
+readme = "README.md"
+packages = [{include = "transcribe_pptx"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydub = "^0.25.1"
+ffmpeg = "^1.4"
+requests = "^2.28.1"
+python-pptx = "^0.6.21"
+
+[tool.poetry.scripts]
+transcribe-pptx = "transcribe_pptx:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
