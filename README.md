@@ -11,7 +11,7 @@ Ausserdem wurde bei jedem sechsten Satz ein neuer Absatz eingefügt, um die Lesb
 
 In diesem [Google Drive Ordner](https://drive.google.com/drive/folders/1bCUJR_EMPyfwJNEGyCe91D4mwbNaQ1YA?usp=share_link) 
 befinden sich alle transkribierten Powerpoints der Vorlesung. 
-Die Transkripte sind in den Powerpoints für die Folien enthalten, die Audiodateien enthalten. 
+Die Transkripte sind in den Powerpoints für jene Folien enthalten, die Audiodateien enthalten. 
 Für diese Folien ist der Text im Textfeld "Notizen" zu finden (Siehe Bild unten). 
 
 Ausserdem ist in der [transcript.pdf Datei](Transcript/transcript.pdf) der gesamte transkribierte Text der Vorlesung enthalten.
