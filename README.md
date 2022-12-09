@@ -9,7 +9,7 @@ Ausserdem wurde bei jedem sechsten Satz ein neuer Absatz eingefügt, um die Lesb
 
 ### Transkripte
 
-Mit diesem [Link](https://drive.google.com/drive/folders/1bCUJR_EMPyfwJNEGyCe91D4mwbNaQ1YA?usp=share_link) kann man auf den Ordner zugreifen, wo sich alle transkribierten Powerpoints der Vorlesung befinden. 
+Mit diesem [Link](https://forms.gle/7TnYwiPVJmaPEVH77) kann man auf den Ordner zugreifen, wo sich alle transkribierten Powerpoints der Vorlesung befinden. 
 Die Transkripte sind in den Powerpoints für jene Folien enthalten, die Audiodateien enthalten. 
 Für diese Folien ist der Text im Textfeld "Notizen" zu finden (Siehe Bild unten). 
 Ausserdem ist im Ordner der gesamte transkribierte Text der Vorlesung in der Datei "transcript.pdf" zu finden. Diese PDF-Datei ist hilfreich, wenn man nach einem Stichwort suchen möchte.
